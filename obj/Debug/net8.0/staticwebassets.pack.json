@@ -1,0 +1,1029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ImgR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImgR.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\circle.css",
+      "PackagePath": "staticwebassets\\css\\circle.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\progressbar.min.css",
+      "PackagePath": "staticwebassets\\css\\progressbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\rateyo.min.css",
+      "PackagePath": "staticwebassets\\css\\rateyo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\css\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\-logo.png",
+      "PackagePath": "staticwebassets\\images\\-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\ab1.jpg",
+      "PackagePath": "staticwebassets\\images\\ab1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\ab2.jpg",
+      "PackagePath": "staticwebassets\\images\\ab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\ab3.jpg",
+      "PackagePath": "staticwebassets\\images\\ab3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-4.png",
+      "PackagePath": "staticwebassets\\images\\about-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-catogory-bg.png",
+      "PackagePath": "staticwebassets\\images\\about-catogory-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\about-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attor-det1.png",
+      "PackagePath": "staticwebassets\\images\\attor-det1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at2.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at3.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at4.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at5.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at6.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\at7.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\at7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd1.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd3.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd4.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd5.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd7.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd8.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\attorneys\\atd9.jpg",
+      "PackagePath": "staticwebassets\\images\\attorneys\\atd9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\404.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\404.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\bg\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\a.png",
+      "PackagePath": "staticwebassets\\images\\bg\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\abg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\abg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\about-2-bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\about-2-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\atb.png",
+      "PackagePath": "staticwebassets\\images\\bg\\atb.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\bc-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bc-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\contact-infobg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\contact-infobg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\counter-3-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\counter-3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\counter-4-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\counter-4-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\counter-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\counter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\cross.png",
+      "PackagePath": "staticwebassets\\images\\bg\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\experience-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\experience-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\footer_pattern.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\footer_pattern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\home-2-about-2.png",
+      "PackagePath": "staticwebassets\\images\\bg\\home-2-about-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\home-2-slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\home-2-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\bg\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\partner-3-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\partner-3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\pat1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\pat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\presentitor-line.png",
+      "PackagePath": "staticwebassets\\images\\bg\\presentitor-line.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\sbg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\sbg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\skill-bg-white.png",
+      "PackagePath": "staticwebassets\\images\\bg\\skill-bg-white.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\skill-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\skill-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\skill_light_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\skill_light_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-21.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-22.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider31.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\slider32.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\slider32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\social-media-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\social-media-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\submit-3--bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\submit-3--bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\table-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\table-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\tes_light_bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\tes_light_bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\testimonial-3-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\testimonial-3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\testimonial-bg-white.png",
+      "PackagePath": "staticwebassets\\images\\bg\\testimonial-bg-white.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\testimonial-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\toggle-nav-bg-2.png",
+      "PackagePath": "staticwebassets\\images\\bg\\toggle-nav-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\toggle-nav-bg.png",
+      "PackagePath": "staticwebassets\\images\\bg\\toggle-nav-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\bg\\wus.png",
+      "PackagePath": "staticwebassets\\images\\bg\\wus.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog-3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog-3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog-3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog-commenter-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-commenter-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog-single-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-single-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\3a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\3b.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\b-author.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\b-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bauthor.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bauthor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bb1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bb2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bb3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bb4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\bb5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\bb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogbs1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogbs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogbs2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogbs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogbs3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogbs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogs1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogs2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogs3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\blogs4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blogs4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\sb1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\sb2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\sb3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\sin-blog.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sin-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\blog\\sin-blog.png",
+      "PackagePath": "staticwebassets\\images\\blog\\sin-blog.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\c41.png",
+      "PackagePath": "staticwebassets\\images\\c41.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\c42.png",
+      "PackagePath": "staticwebassets\\images\\c42.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\c43.png",
+      "PackagePath": "staticwebassets\\images\\c43.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\c44.png",
+      "PackagePath": "staticwebassets\\images\\c44.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\c45.png",
+      "PackagePath": "staticwebassets\\images\\c45.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\cancel.png",
+      "PackagePath": "staticwebassets\\images\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-2-1.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-2-2.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-2-3.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-2-4.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-2-5.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-4-1.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-4-2.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-4-3.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-4-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-4-4.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-4-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clint-logo-4-5.png",
+      "PackagePath": "staticwebassets\\images\\clint-logo-4-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-1.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-2.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-3-1.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-3-2.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-3-3.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-3-4.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-3-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-3.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-4.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-5.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-6.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\clints-logo-overlay.png",
+      "PackagePath": "staticwebassets\\images\\clints-logo-overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\darrow.png",
+      "PackagePath": "staticwebassets\\images\\darrow.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\darrow2.png",
+      "PackagePath": "staticwebassets\\images\\darrow2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\f1.jpg",
+      "PackagePath": "staticwebassets\\images\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\android-chrome-256x256.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\android-chrome-256x256.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\fav-icons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\images\\fav-icons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\figure-img.jpg",
+      "PackagePath": "staticwebassets\\images\\figure-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-blog-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-blog-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-blog-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-blog-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-1.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-2.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-3.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-4.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-5.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-6.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-7.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-8.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\footer-instagram-9.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-instagram-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-banner-inner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-banner-inner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-banner-inner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-banner-inner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-banner-inner-3.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-banner-inner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-practise-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-practise-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-practise-2.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-practise-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\home-2-practise-3.jpg",
+      "PackagePath": "staticwebassets\\images\\home-2-practise-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\law-icon.png",
+      "PackagePath": "staticwebassets\\images\\law-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\logo-footer.png",
+      "PackagePath": "staticwebassets\\images\\logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\media-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\media-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\media-2-1.png",
+      "PackagePath": "staticwebassets\\images\\media-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\media-2-2.png",
+      "PackagePath": "staticwebassets\\images\\media-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\media-2-3.png",
+      "PackagePath": "staticwebassets\\images\\media-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\prac1.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\prac1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\prac2.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\prac2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\prac3.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\prac3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd1.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd2.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd3.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd4.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd5.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd6.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd7.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd8.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\pracd9.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\pracd9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\practice\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\practice\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\progress-1.jpg",
+      "PackagePath": "staticwebassets\\images\\progress-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\progress-2.jpg",
+      "PackagePath": "staticwebassets\\images\\progress-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\progress-3.jpg",
+      "PackagePath": "staticwebassets\\images\\progress-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\progress-4.jpg",
+      "PackagePath": "staticwebassets\\images\\progress-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\progress-5.jpg",
+      "PackagePath": "staticwebassets\\images\\progress-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\social-media-shape.png",
+      "PackagePath": "staticwebassets\\images\\social-media-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-5.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-6.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-7.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-8.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2-9.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testimonial-story-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-story-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testmonial-signeture-dark.png",
+      "PackagePath": "staticwebassets\\images\\testmonial-signeture-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\images\\testmonial-signeture.png",
+      "PackagePath": "staticwebassets\\images\\testmonial-signeture.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\hy-drawer.min.js",
+      "PackagePath": "staticwebassets\\js\\hy-drawer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\progressbar.js",
+      "PackagePath": "staticwebassets\\js\\progressbar.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\swiperRunner.min.js",
+      "PackagePath": "staticwebassets\\js\\swiperRunner.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\ImgR\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImgR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImgR.props",
+      "PackagePath": "build\\ImgR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImgR.props",
+      "PackagePath": "buildMultiTargeting\\ImgR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImgR.props",
+      "PackagePath": "buildTransitive\\ImgR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

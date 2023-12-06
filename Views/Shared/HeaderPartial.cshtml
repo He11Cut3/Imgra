@@ -1,0 +1,70 @@
+﻿<div id="loader-wrapper">
+    <div class="book">
+        <div class="book__page"></div>
+        <div class="book__page"></div>
+        <div class="book__page"></div>
+    </div>
+</div>
+
+<!-- Header Part Start -->
+<header class="header-part">
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-sm-7 col-6 text-left">
+                <div class="header-item">
+                    <p class="pl-0"><i class="fa fa-phone"></i> <span class="d-none d-md-inline-block">Телефон:</span> <a href="callto::124784-6532">158-659-8546</a> </p>
+                    <p class="d-none d-md-inline-block"><i class="fa fa-clock-o"></i> <span class="d-none d-sm-inline-block">Мы открыты:</span> ПН-ПТ: 9:00 - 20:00</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Header Part End -->
+<!-- Navigation Part Start -->
+<nav id="navigation" class="navbar navbar-expand-lg nav-bg-white">
+    <div class="container">
+        <a class="navbar-brand" asp-controller="Home" asp-action="Index" ><img src="https://themeim.com/demo/imgra/images/logo.png" alt=""></a>
+        <div class="collapse navbar-collapse" id="nav-list">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item custom-dropdown-box">
+                    <a asp-controller="Home" asp-action="Index">Главная страница</a>
+                </li>
+                <li class="nav-item custom-dropdown-box">
+                    <a asp-controller="Home" asp-action="About">О нас</a>
+                </li>
+
+                <li class="nav-item custom-dropdown-box">
+                    <a asp-controller="Home" asp-action="Contact">Контакты</a>
+                </li>
+                <li class="nav-item custom-dropdown-box">
+                    <a asp-controller="Order" asp-action="Create">Оформление заявки</a>
+                </li>
+
+
+                @if (User.Identity?.IsAuthenticated ?? false)
+                {
+                    <li class="nav-item custom-dropdown-box">
+                        <a>@User.Identity.Name</a>
+                        <ul class="dropdown-child-manu">
+                            <li><a asp-controller="Order" asp-action="Details">История заказов</a></li>
+                            <li><a asp-controller="Account" asp-action="Logout">Выход</a></li>
+                        </ul>
+                    </li>
+
+                }
+                else
+                {
+                    <li class="nav-item custom-dropdown-box">
+                        <a>Авторизация</a>
+                        <ul class="dropdown-child-manu">
+                            <li><a asp-controller="Account" asp-action="Create">Регистрация</a></li>
+                            <li><a asp-controller="Account" asp-action="Login">Вход</a></li>
+                        </ul>
+                    </li>
+
+                }
+                
+            </ul>
+        </div>
+    </div>
+</nav>

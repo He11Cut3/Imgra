@@ -1,0 +1,80 @@
+﻿@model Order
+
+<!-- BreadCrumb Part Start -->
+<section class="breadcrumb-part">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="breadcrumb-title">
+                    <h1>Оформление заказа</h1>
+                </div>
+            </div>
+        </div>
+        <div class="breadcrumb-link">
+            <ul class="flat-list">
+                <li><a>Главная страница</a></li>
+                <li><a>Оформление заказа</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="contuct-bottom">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-8">
+                <div class="con-bottom-inner">
+
+                    <form asp-controller="Order" asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label">ФИО</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label">Почта</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Phone" class="control-label">Номер телефона (с +7)</label>
+                            <input asp-for="Phone" class="form-control" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Service" class="control-label">Тип логистики</label>
+                            <select asp-for="Service" class="form-control">
+                                <option value="Грузовая логистика">Грузовая логистика</option>
+                                <option value="Складская логистика">Складская логистика</option>
+                                <option value="Информационная логистика">Информационная логистика</option>
+                                <option value="Маркетинговая логистика">Маркетинговая логистика</option>
+                            </select>
+                            <span asp-validation-for="Service" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Message" class="control-label">Описание (Обязательно указывайте адрес)</label>
+                            <textarea asp-for="Message" class="form-control"></textarea>
+                            <span asp-validation-for="Message" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Оформить заказ</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://cdn.ckeditor.com/4.19.0/standard/ckeditor.js"></script>
+<script>
+
+    CKEDITOR.replace('Message');
+</script>

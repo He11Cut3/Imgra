@@ -1,0 +1,55 @@
+﻿@model LoginViewModel
+
+<!-- BreadCrumb Part Start -->
+<section class="breadcrumb-part">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="breadcrumb-title">
+                    <h1>Регистрация</h1>
+                </div>
+            </div>
+        </div>
+        <div class="breadcrumb-link">
+            <ul class="flat-list">
+                <li><a>Главная страница</a></li>
+                <li><a>Регистрация</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- BreadCrumb Part End -->
+
+
+<section class="contuct-bottom">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-8">
+                <div class="con-bottom-inner">
+
+                    <form asp-action="Login">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName" class="control-label">Логин</label>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label">Пароль</label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <input type="hidden" asp-for="ReturnUrl" />
+
+                        <div class="form-group">
+                            <button class="btn btn-primary mt-2">Вход</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
